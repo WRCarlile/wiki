@@ -1,0 +1,65 @@
+b.glyphicon-user {
+  float: right;
+}
+
+p.login{
+  float:right;
+}
+
+form.navbar-form {
+  float:right;
+}
+
+input.form-control {
+  float:right;
+}
+
+#loginlist {
+  padding-right: 15px;
+  padding-top: 2px;
+}
+
+#loginlist li{
+  padding-right: 5px;
+}
+
+.colcolor1 {
+    border-style: solid;
+    border-color: rgba(200,200,200, 0.2);
+    background-color: rgba(200,200,200, 0.1);
+}
+
+.colcolor2 {
+  border-style: solid;
+  border-color: rgba(50,150,50, 0.2);
+  background-color: rgba(50,150,50, 0.1);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.colcolor3 {
+  border-style: solid;
+  border-color: rgba(40,40,180, 0.2);
+  background-color: rgba(40,40,180, 0.1);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  border-style: solid;
+  border-width: 1px;
+  padding: 3px;
+}
+
+.colcolor2 h4 {
+  border-color: rgba(50,150,50, 0.5);
+  background-color: rgba(50,150,50, 0.3);
+}
+.colcolor3 h4 {
+  border-color: rgba(40,40,180, 0.5);
+  background-color: rgba(40,40,180, 0.3);
+}
+
+ul.list {
+  float:right;
+  padding-top: 25px;
+}
